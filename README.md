@@ -1,2 +1,2 @@
 # AlPro2
-Direktori/folder khusus praktikum semester 3
+Direktori (folder) khusus praktikum semester 3
